@@ -1,9 +1,10 @@
 {
-  "name": "atm_project",
-  "version": "1.0.0",
+  "name": "mani_atm_project",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "type": "module",
+  "bin": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
